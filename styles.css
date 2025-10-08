@@ -11,7 +11,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: Montserrat;
-    color: #1D3557;
+    color: #323339;
 }
 
 
@@ -24,12 +24,12 @@ body {
 
 h1 {
     font-size: 2.5em;
-    color: #F1FAEE;
+    color: #D3E0E8;
 }
 
 h2 {
     font-size: 1.25em;
-    color: #F1FAEE;
+    color: #D3E0E8;
 }
 
 h3 {
@@ -53,26 +53,26 @@ img {
 
 .hero-title {
     color: #F1FAEE;
-    background-color: #260f26;
+    background-color: #323339;
     display: inline-block;
     padding: 10px 20px;
-    border: 1px solid #1D3557;
+    border: 1px solid #323339;
     border-radius: 10px;
     margin: 100px 0 0 0;
 }
 
 .hero-subtitle {
     color: #F1FAEE;
-    background-color: #457B9D;
+    background-color: #645B0F;
     width: 400px;
     display: inline-block;
     padding: 10px 20px;
-    border: 1px solid #457B9D;
+    border: 1px solid #645B0F;
     border-radius: 10px;
 }
 
 .activity-container {
-    background-color: #F1FAEE;
+    background-color: #d3e0e8;
     padding: 20px;
 }
 
@@ -97,13 +97,14 @@ img {
 }
 
 .guide-section {
-    background-color: #A8DADC;
+    background-color: #82878D;
     width: 400px;
     display: flex;
     padding: 20px 20px;
     margin: 50px auto;
     border-radius: 25px;
-    border-bottom: 5px solid #1D3557;
+    border-bottom: 5px solid #323339;
+    text-shadow: 1px 1px 10px whitesmoke;
 }
 
 .guide-img {
