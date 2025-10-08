@@ -107,6 +107,10 @@ img {
     text-shadow: 1px 1px 10px whitesmoke;
 }
 
+.guide-section:hover {
+    width: 450px;
+}
+
 .guide-img {
     width: 150px;
 }
