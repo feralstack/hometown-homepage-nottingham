@@ -1,0 +1,115 @@
+/*
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Montserrat;
+    color: #1D3557;
+}
+
+
+.montserrat-hometown> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #F1FAEE;
+}
+
+h2 {
+    font-size: 1.25em;
+    color: #F1FAEE;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+img {
+    width: 100px;
+}
+
+.hero-section {
+    background-image: url("images/nottingham.jpg");
+    background-size: cover;
+    background-position-y: center;
+    height: 350px;
+}
+
+.hero-title {
+    color: #F1FAEE;
+    background-color: #260f26;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid #1D3557;
+    border-radius: 10px;
+    margin: 100px 0 0 0;
+}
+
+.hero-subtitle {
+    color: #F1FAEE;
+    background-color: #457B9D;
+    width: 400px;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid #457B9D;
+    border-radius: 10px;
+}
+
+.activity-container {
+    background-color: #F1FAEE;
+    padding: 20px;
+}
+
+.activity-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.activity-space {
+    margin: 10px;
+    padding: 10px;
+}
+
+.activity-img {
+    border: 1px sold #F1FAEE;
+    border-radius: 50%;
+    height: 100px;
+}
+
+.activity {
+    text-shadow: -1px 1px 5px gray;
+}
+
+.guide-section {
+    background-color: #A8DADC;
+    width: 400px;
+    display: flex;
+    padding: 20px 20px;
+    margin: 50px auto;
+    border-radius: 25px;
+    border-bottom: 5px solid #1D3557;
+}
+
+.guide-img {
+    width: 150px;
+}
+
+.guide-text {
+    margin-left: 10px;
+}
