@@ -44,6 +44,14 @@ img {
     width: 100px;
 }
 
+a {
+    color: #645B0F;
+}
+
+a:hover {
+    color: #82878D;
+}
+
 .hero-section {
     background-image: url("images/nottingham.jpg");
     background-size: cover;
