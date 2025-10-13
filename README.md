@@ -1,4 +1,4 @@
-```markdown
+
 # hometown-homepage-nottingham
 
 A small Scrimba project to showcase the top 3 activies in my hometown built to practise HTML and CSS.
