@@ -18,6 +18,6 @@ https://frabjous-elf-230716.netlify.app/
 - Use of `text-shadow` to emphasise text against background
 - `:hover` to emphasise the local guide section  
 
-## 📦 Possible Next Steps  
+## 📦 Future Enhancements 
 - [x] Add links to activities as suggested by user on Scrimba discord
 - [ ] Add and additional section with more activities   
